@@ -1,0 +1,19 @@
+AI-Driven Adaptive Software Engineering
+Intelligent Project Management System
+
+Model Evaluation Results
+------------------------
+
+Dataset: sample_tasks.csv
+
+Status: Initial project dataset
+
+Note:
+Model evaluation metrics will be generated after training
+and testing the risk prediction model on the project dataset.
+
+Metrics to be evaluated:
+- Accuracy
+- Precision
+- Recall
+- F1-Score
